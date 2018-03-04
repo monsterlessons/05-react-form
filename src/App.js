@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-import RegistationForm from './RegistrationForm';
+import RegistrationForm from './RegistrationForm';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <RegistationForm />
+        <RegistrationForm />
       </div>
     );
   }
